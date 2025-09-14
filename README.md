@@ -30,3 +30,10 @@ The aim is to support **national and provincial decision-makers** with actionabl
 ## Dashboard Overview
 <img width="746" height="422" alt="water acess dashboard" src="https://github.com/user-attachments/assets/c817cd65-e269-4d84-8704-50c0498d1ee4" />
 
+## Insights
+**Water Access Gaps**
+- Many citizens of Maji Ndogo still lack basic access to water, with a percentage of 95%
+- 5 % of the population has access to water 
+
+**Budget required**
+- A total amount of $147M is required to for Maji Ndogo to have full access to water 
